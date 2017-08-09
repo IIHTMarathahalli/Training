@@ -1,2 +1,2 @@
 # Training
-Training Documents
+Training August2017 Documents
