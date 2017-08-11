@@ -1,3 +1,0 @@
-Welcome to IIHT DevOps training  on Git and Github
-
- git LAB
