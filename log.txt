@@ -1,0 +1,133 @@
+commit 6b8361c67ae856d11c8b52876e09ad5248823206
+Author: IIHT Marathahalli <30795210+IIHTMarathahalli@users.noreply.github.com>
+Date:   Sat Aug 12 14:55:18 2017 +0530
+
+    Delete new.txt
+
+commit b748aa03f027e19fc5a7a564b136c88c639d8bf7
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Sat Aug 12 07:57:34 2017 +0000
+
+    New updates
+
+commit 16b141cd9a6f41f50dca262526e42e708e1687b4
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Sat Aug 12 07:14:13 2017 +0000
+
+    last changes
+
+commit e27062909ca56915d64c036bf13667340accd482
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Sat Aug 12 07:12:00 2017 +0000
+
+    small changes
+
+commit 6047dfb6d8e6c28143a1cf6cc07dd4a8fe0f8676
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Sat Aug 12 07:00:36 2017 +0000
+
+    modified Marat
+
+commit b387dae2ab4f77455cf6d7487757dd4a86f28546
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Sat Aug 12 06:42:43 2017 +0000
+
+    updated 12-Aug
+
+commit b31de3fa4f52a26748f96819ecabdd658cf17cef
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Fri Aug 11 12:04:40 2017 +0000
+
+    Latest|
+
+commit a781352b7ac4b8b0f56a101ce9a47727f805c4f5
+Author: IIHT Marathahalli <30795210+IIHTMarathahalli@users.noreply.github.com>
+Date:   Fri Aug 11 17:28:17 2017 +0530
+
+    Deleted from GitHub
+
+commit 1ed9640f50d084cf9b52247f622ca0ed5e69ee34
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Fri Aug 11 11:56:35 2017 +0000
+
+    recreated
+
+commit 61ffd5a352e7f89946cc315e7bafe7fdd604e8d7
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Fri Aug 11 11:43:57 2017 +0000
+
+    local delete update
+
+commit 45f3b7096a7f13007be0ca2a086a8eb2ab75b3ac
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Fri Aug 11 11:40:38 2017 +0000
+
+    Test Update
+
+commit cab04bdb2389e4e444dff8cec9eab5fca81966e9
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Fri Aug 11 11:37:28 2017 +0000
+
+    Test Add back
+
+commit 9bceb3dd3cfe688d9b96c11e6aba88548de440d5
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Fri Aug 11 11:32:14 2017 +0000
+
+    Test Delete
+
+commit 6f0d4dc52e75b1f83a9b5321c7011b32977fe542
+Author: IIHTMarathahalli <iiht.marathahalli.bangalore@gmail.com>
+Date:   Fri Aug 11 11:13:42 2017 +0000
+
+    New file from AWS
+
+commit a1933bee2a7b3120f0ea0e01a64da80ad55866a4
+Merge: 8c08acc 8606d37
+Author: IIHT Marathahalli <30795210+IIHTMarathahalli@users.noreply.github.com>
+Date:   Wed Aug 9 17:28:39 2017 +0530
+
+    Merge pull request #2 from IIHTMarathahalli/revert-1-Training-Aug
+    
+    Revert "Update README.md"
+
+commit 8606d376d667579df82ef841404cbc9833053262
+Author: IIHT Marathahalli <30795210+IIHTMarathahalli@users.noreply.github.com>
+Date:   Wed Aug 9 17:27:07 2017 +0530
+
+    Revert "Update README.md"
+
+commit 8c08accf2a756a1f194517a7e38302cc58f23885
+Merge: bbe8aac a6fc150
+Author: IIHT Marathahalli <30795210+IIHTMarathahalli@users.noreply.github.com>
+Date:   Wed Aug 9 17:25:32 2017 +0530
+
+    Merge pull request #1 from IIHTMarathahalli/Training-Aug
+    
+    Update README.md
+
+commit a6fc1501692331930eb074759efd94cc6886c953
+Author: IIHT Marathahalli <30795210+IIHTMarathahalli@users.noreply.github.com>
+Date:   Wed Aug 9 17:23:11 2017 +0530
+
+    Update README.md
+
+commit bbe8aac04dc7ac234bd17510870923018a99bb62
+Author: IIHT Marathahalli <30795210+IIHTMarathahalli@users.noreply.github.com>
+Date:   Tue Aug 8 17:56:18 2017 +0530
+
+    Create README.md
+
+commit 0a2fa130411fe185606f7f40f495412f1309f560
+Author: IIHTMarathahalli <30795210+IIHTMarathahalli@users.noreply.github.com>
+Date:   Tue Aug 8 17:48:07 2017 +0530
+
+    1.1
+
+commit 515afad8244e964c44536603620610d45a415fb9
+Author: IIHTMarathahalli <30795210+IIHTMarathahalli@users.noreply.github.com>
+Date:   Tue Aug 8 14:55:18 2017 +0530
+
+    1.0
+    
+    Pictures
